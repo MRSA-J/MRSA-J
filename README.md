@@ -11,7 +11,7 @@
 [![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRSA-J)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤖 Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRSA-J&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRSA-J)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me:
 Linkedin: https://www.linkedin.com/in/chen-wei-57b225198/   <br>
