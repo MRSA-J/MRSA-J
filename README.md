@@ -17,4 +17,4 @@
 
 ### 📫 How to reach me:
 Linkedin: https://www.linkedin.com/in/chen-wei-57b225198/   <br>
-G-mail: mrsa@brandeis.edu
+G-mail: chen_wei@brown.edu | mrsa@brandeis.edu
