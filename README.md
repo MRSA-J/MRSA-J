@@ -11,8 +11,6 @@
 ### 🚀 Contribution Overview
 [![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRSA-J)](https://github.com/MRSA-J/github-readme-stats)
 
-![m](metrics.svg)
-
 <!--
 ### 🤖 Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRSA-J&layout=compact)](https://github.com/MRSA-J/github-readme-stats)
