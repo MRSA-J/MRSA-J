@@ -11,10 +11,10 @@
 <!---
 ### 🚀 Contribution Overview
 [![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRSA-J&count_private=true&show_icons=true)](https://github.com/MRSA-J/github-readme-stats)
+---!>
 
 ### 🤖 Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRSA-J&layout=compact)](https://github.com/MRSA-J/github-readme-stats)
----!>
 
 ### 📫 How to reach me:
 Linkedin: https://www.linkedin.com/in/chen-wei-57b225198/   <br>
