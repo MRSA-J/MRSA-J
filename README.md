@@ -8,8 +8,10 @@
 - 🌏 Communication Language: English, Chinese 中文简体
 - 🌱 Relevant courses: Deep Learning, Data Science, Computer Systems, Mobile Application Developement, Computer System Security, Hypertext/Hypermedia, Data Science, User Interface/User Experience (UI/UX), Probability, Linear Algebra, Discrete Structures, Natural Language Processing, Operating Systems, Calculus, Fourier Analysis, Practical Machine Learning with Big Data
 
+<!--
 ### 🚀 Contribution Overview
 [![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRSA-J&count_private=true&show_icons=true)](https://github.com/MRSA-J/github-readme-stats)
+-->
 
 ### 🤖 Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRSA-J&layout=compact)](https://github.com/MRSA-J/github-readme-stats)
