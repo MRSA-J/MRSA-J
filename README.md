@@ -16,6 +16,8 @@
 ### 🤖 Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRSA-J&layout=compact)](https://github.com/MRSA-J/github-readme-stats)
 
+Note: the above statistics are not accurate and do not take GitHub Classroom assignment commits into account. This semester, I'm mainly coding in C, x86 Assembly Language, and TypeScript.
+
 ### 📫 How to reach me:
 Linkedin: https://www.linkedin.com/in/chen-wei-57b225198/   <br>
 G-mail: chen_wei@brown.edu | mrsa@brandeis.edu
