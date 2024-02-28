@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: The heads on Easter IsLand have bodies.
 - 🌏 Communication Language: English, Chinese 中文简体
-- 🌱 Relevant courses: Deep Learning, Data Science, Computer Systems, Mobile Application Developement, Computer System Security, Hypertext/Hypermedia, Data Science, User Interface/User Experience (UI/UX), Probability, Linear Algebra, Discrete Structures, Natural Language Processing, Operating Systems, Calculus, Fourier Analysis, Named Entity Recognition, Practical Machine Learning with Big Data
+- 🌱 Relevant courses: Deep Learning, Data Science, Computer Systems, Mobile Application Developement, Computer System Security, Hypertext/Hypermedia, User Interface/User Experience (UI/UX), Probability, Linear Algebra, Discrete Structures, Natural Language Processing, Operating Systems, Calculus, Fourier Analysis, Named Entity Recognition, Practical Machine Learning with Big Data
 
 <!--
 ### 🚀 Contribution Overview
