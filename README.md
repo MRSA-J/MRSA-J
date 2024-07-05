@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🌞 Info
-- 🔭 I am currently an 2nd year CS master student at Brown University. In May 2022, I graduated from Brandeis University with a B.S. degrees in Computer Science and Applied Mathematics. I am currently searching for new graduate jobs
+- 🔭 I am a recent CS graduate with an M.S. degree from Brown University. In May 2022, I graduated from Brandeis University with B.S. degrees in Computer Science and Applied Mathematics. I am currently searching for new graduate jobs
 - 🔨 Specialties: Java, Python, C, C++, Machine Learning, SQL, MATLAB, React Native, React, HTML, CSS, Docker, Flask, MongoDB, TensorFlow, PyTorch, NumPy
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: The heads on Easter IsLand have bodies.
@@ -25,6 +25,6 @@ Note: the above statistics are not accurate and do not take GitHub Classroom ass
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-wei-57b225198/)
 -->
 Linkedin: https://www.linkedin.com/in/chen-wei-57b225198/   <br>
-Email: chen_wei@brown.edu | mrsa@brandeis.edu
+Email: chen_wei@alumni.brown.edu | mrsa@brandeis.edu
 
 
